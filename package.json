@@ -1,0 +1,26 @@
+{
+  "name": "clever_test",
+  "version": "0.0.0",
+  "description": "Test of the clever API",
+  "main": "short.js",
+  "dependencies": {
+    "clever": "~0.1.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thomblake/clever_test.git"
+  },
+  "keywords": [
+    "clever",
+    "test"
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/thomblake/clever_test/issues"
+  }
+}
